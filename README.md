@@ -138,7 +138,7 @@ After configuring static routes:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Implement Dynamic Routing (RIP, OSPF, EIGRP)
 - Add redundant links for failover
@@ -146,7 +146,3 @@ After configuring static routes:
 - Perform route summarization
 
 ---
-
----
-
-⭐ Feel free to explore this project and provide feedback!
